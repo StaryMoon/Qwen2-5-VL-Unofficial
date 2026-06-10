@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Qwen2.5-VL Technical Report"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Qwen2-5-VL-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Qwen2.5-VL Technical Report"
+  authors:
+    - family-names: Bai
+      given-names: Shuai
+    - family-names: Chen
+      given-names: Keqin
+    - family-names: Liu
+      given-names: Xuejing
+    - family-names: Wang
+      given-names: Jialin
+    - family-names: Ge
+      given-names: Wenbin
+    - family-names: Song
+      given-names: Sibo
+    - family-names: Dang
+      given-names: Kai
+    - family-names: Wang
+      given-names: Peng
+    - family-names: Wang
+      given-names: Shijie
+    - family-names: Tang
+      given-names: Jun
+    - family-names: Zhong
+      given-names: Humen
+    - family-names: Zhu
+      given-names: Yuanzhi
+    - family-names: Yang
+      given-names: Mingkun
+    - family-names: Li
+      given-names: Zhaohai
+    - family-names: Wan
+      given-names: Jianqiang
+    - family-names: Wang
+      given-names: Pengfei
+    - family-names: Ding
+      given-names: Wei
+    - family-names: Fu
+      given-names: Zheren
+    - family-names: Xu
+      given-names: Yiheng
+    - family-names: Ye
+      given-names: Jiabo
+    - name: Additional original paper authors
+  journal: "arXiv preprint arXiv:2502.13923"
+  year: 2025
+  url: "https://arxiv.org/abs/2502.13923"
